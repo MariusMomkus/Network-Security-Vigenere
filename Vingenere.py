@@ -1,4 +1,4 @@
-# Marius Momkus
+# Marius Momkus Vingenere Encryption/decryption
 
 class Vigenere:
     def __init__(self):
