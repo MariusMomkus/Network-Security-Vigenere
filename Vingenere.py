@@ -40,8 +40,8 @@ class Vigenere:
 
 
 v = Vigenere()
-message = input('Please enter a message to encrypt: ')
-key = input('Please enter your key: ')
+message = input('message to encrypt: ')
+key = input('enter your key: ')
 
 
 def main():
